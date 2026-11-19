@@ -1,0 +1,13 @@
+{
+  "presets": {
+    "dark-tech": {
+      "description": "Dark tech look without reference files: near-black background, orange accent",
+      "references": [],
+      "style_notes": [
+        "Near-black background (#0A0A0A), warm orange accent light, cream white text",
+        "Flat 3D app-icon style objects, generous empty space for text"
+      ],
+      "avoid": ["purple", "stock-photo look", "cluttered background"]
+    }
+  }
+}

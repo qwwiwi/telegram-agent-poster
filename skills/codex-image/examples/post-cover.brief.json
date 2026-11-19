@@ -1,0 +1,25 @@
+{
+  "type": "post-illustration",
+  "preset": "dark-tech",
+  "purpose": "Cover for a Telegram channel post that explains how an AI agent tracks invite links",
+  "placement": "Telegram post cover (sendPhoto), must stay readable on a phone screen",
+  "route": "subscription",
+  "quality": "medium",
+  "aspect": "landscape",
+  "final_size": "1280x720",
+  "scene": "Near-black background with a faint grid and a glowing chain of linked nodes",
+  "subject": "A small friendly robot holding a glowing link icon, centered, simple geometric shapes",
+  "details": "Soft orange rim light, crisp edges, lots of empty space around the text",
+  "no_text": false,
+  "text": [
+    {"content": "ССЫЛКИ ПОД КОНТРОЛЕМ", "position": "top center, two lines", "typography": "heavy bold sans, all caps, cream white", "kind": "headline"}
+  ],
+  "references": [],
+  "references_none_reason": "new visual, no brand references yet",
+  "avoid": ["any text other than the headline", "watermarks"],
+  "preserve": [],
+  "extra": {
+    "post_topic": "AI agent tracks which invite link brings subscribers",
+    "platform": "Telegram"
+  }
+}
